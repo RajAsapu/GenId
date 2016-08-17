@@ -1,6 +1,6 @@
 # GenId
 Generates Selenium Identifiers 
-
+--------------------------------------------------------------------
  ← Download the Selenium Generator
  ← Install it
  ← Enter the webapplication url
